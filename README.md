@@ -72,3 +72,10 @@ More info at [https://launchpad.net/txjsonrpc](https://launchpad.net/txjsonrpc)
 
 [https://en.bitcoin.it/wiki/API_reference_(JSON-RPC)]: https://en.bitcoin.it/wiki/API_reference_(JSON-RPC)
 [usual armory dependencies]: https://bitcointalk.org/index.php?topic=92496.msg1027061#msg1027061
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
